@@ -19,6 +19,11 @@ It includes a small C program that demonstrates low-level container mechanisms s
 - Experimentation with Linux namespaces (PID, mount, network, UTS)
 - Minimal container-like environment using chroot
 
+## Docker & Docker Compose (OpenStack VM)
+
+Docker and Docker Compose experiments were conducted on a lab VM deployed on OpenStack.
+The VM environment is no longer available, but the repository documents the approach and key configurations.
+
 ## Purpose
 
 The goal of this lab is to better understand how container technologies work internally and how isolated environments can be created on Linux systems.
